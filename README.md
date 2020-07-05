@@ -31,4 +31,5 @@ It's a very Informative Session that discloses about ChatBots and Their Internal
 This Session is useful for both Technical and Non-Technical Persons.
 
 YouTube - https://lnkd.in/esEC6bE
-Telegram - t.me/freebirdscrew
+
+Telegram - https://t.me/freebirdscrew
