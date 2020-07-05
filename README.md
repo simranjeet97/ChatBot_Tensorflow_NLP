@@ -1,7 +1,7 @@
 # ChatBot_Tensorflow_NLP
 Artificial Intelligent ChatBot using Tensorflow and NLP that understand the Context and Intent of Human Language.
 
-![Screenshot](Build You Own ChatBot !!.png)
+![Screenshot](chatbot.png)
 
 💯👉 FREEBIRDS CREW 👈🤖
 #FreeBirdsCrew #WeLearnandGrowTogether
